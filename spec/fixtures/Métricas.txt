@@ -1,0 +1,12 @@
+Casos de Teste pos Estado
+
+- Sucesso: 
+- Falha: 
+- Bloqueados: 
+- Total: 6
+
+Casos de Teste Planejados versus Executados
+
+- Planejados: 
+- Executados: 
+- Total: 6
